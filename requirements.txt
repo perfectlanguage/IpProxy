@@ -10,7 +10,7 @@ idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
 Js2Py==0.70
-lxml==4.5.2
+lxml==4.9.1
 MarkupSafe==1.1.1
 pycparser==2.20
 pyjsparser==2.7.1
